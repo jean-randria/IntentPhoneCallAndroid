@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentPhoneCallAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="snackbar_text">Nous appeler</string>
+    <string name="snackbar_action">Action</string>
+    <string name="confirm_dialog_title">Confirmation</string>
+    <string name="confirm_dialog_message">ëtes vous sûr ?</string>
+</resources>
